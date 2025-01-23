@@ -14,7 +14,9 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.workouts",
+      "bundler": "metro"
     },
     "android": {
       "adaptiveIcon": {

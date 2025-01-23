@@ -3,7 +3,7 @@ import { FlatList, StyleSheet, Text, View } from 'react-native';
 import ExerciseListItem from '../components/ExerciseListItem';
 import exercises from '../../assets/data/exercises.json';
 
-export default function App() {
+export default function HomeScreen() {
   return (
     <View style={styles.container}>
       <FlatList
